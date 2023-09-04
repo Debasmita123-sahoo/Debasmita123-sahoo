@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Analyst role.
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on sahoodebasmita76@gmail.com.
+- 📫 You can reach me on sahoodebasmita76@gmail.com
+- 📞 7787820226
 
 <!---
 Debasmita123-sahoo/Debasmita123-sahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
