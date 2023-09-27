@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debasmita123-sahoo
 - 👀 I’m interested in Data Analyst role.
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning EDA and Data Visualisation 
 - 📫 You can reach me on sahoodebasmita76@gmail.com
 - 📞 7787820226
 
